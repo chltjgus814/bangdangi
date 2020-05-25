@@ -1,0 +1,18 @@
+.vscode
+.DS_Store
+
+*.pyc
+
+# Server 파트
+server/venv
+server/.env
+server/mysqldata
+server/app.yaml
+server/*.json
+
+# 호스트
+host/node_modules
+
+# 웹
+web/node_modules
+web/.next

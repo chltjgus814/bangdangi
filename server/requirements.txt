@@ -1,0 +1,9 @@
+Django==3.0.5
+mysqlclient==1.4.6
+Pillow==7.1.2
+djangorestframework==3.11.0
+PyJWT==1.7.1
+django-cors-headers==3.2.1
+django-storages[google]==1.9.1
+djangorestframework-simplejwt==4.4.0
+django-extra-fields==2.0.5
